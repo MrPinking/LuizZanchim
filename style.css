@@ -11,7 +11,7 @@ body{
 
 
 .ul{
-    margin-top: 5px;
+    margin-top: 25px;
 }
 
 .nav{
@@ -19,7 +19,6 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    padding: 20px 20px;
     display: flex;
     justify-content: space-between;
     align-items: top;
@@ -32,6 +31,7 @@ body{
 
 #title{
     font-size: 18px;
+    margin-top: 20px;
     margin-right: 40px;
     color: black;
 }
