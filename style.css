@@ -27,6 +27,7 @@ body{
 
 .img{
     width: 350px;
+    margin-left: 40px;
 }
 
 #title{
@@ -49,6 +50,7 @@ body{
 .menu li{
     position:relative;
     float:left;
+    margin-left: 40px;
 }
 
 .menu li a{ 
