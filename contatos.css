@@ -87,4 +87,8 @@ body{
 .option{
     text-align: center;
 }
-
+h1{
+    text-align: center;
+    width: auto;
+    align-items: center;
+}
