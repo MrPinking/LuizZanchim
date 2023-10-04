@@ -45,12 +45,12 @@ body{
 .menu{
     list-style: none;
     float:left;
+    margin-left: 40px;
 }
 
 .menu li{
     position:relative;
     float:left;
-    margin-left: 40px;
 }
 
 .menu li a{ 
