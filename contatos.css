@@ -89,6 +89,9 @@ body{
 }
 h1{
     text-align: center;
-    width: auto;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 7cm;
+    width: 150px;
     align-items: center;
 }
