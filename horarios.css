@@ -89,14 +89,12 @@ body{
 }
 
 .divTexto{
+    margin-top: 100px;
     width: 60%;
 }
 
 .divTexto > p{
     font-size: 25px;
-}
-
-.divTexto > h1{
-    margin-bottom: 0%;
+    text-align: left;
 }
 
