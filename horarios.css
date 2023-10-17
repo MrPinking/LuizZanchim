@@ -92,3 +92,7 @@ body{
     width: 60%;
 }
 
+.divTexto > p{
+    font-size: 25px;
+}
+
