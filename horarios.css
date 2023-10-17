@@ -96,3 +96,7 @@ body{
     font-size: 25px;
 }
 
+.divTexto > h1{
+    margin-bottom: 0%;
+}
+
