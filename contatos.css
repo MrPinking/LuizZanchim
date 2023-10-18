@@ -95,3 +95,9 @@ h1{
     width: 150px;
     align-items: center;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(32, 0, 214);
+    color: white;
+  }
