@@ -92,6 +92,11 @@ body{
     text-align: center;
 }
 
+.divTexto{
+    margin-top: 100px;
+    width: 40%;
+}
+
 .divTexto > p{
     text-align: left;
 }
