@@ -8,15 +8,12 @@ body{
     background-color: #ffffff;
 }
 
-
-
 .ul{
     margin-top: 33px;
 }
 
 .nav{
     background-color: white;
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -94,7 +91,7 @@ body{
 }
 
 .divTexto{
-    margin-top: 100px;
+    margin-top: 30px;
     width: 60%;
 }
 
@@ -107,6 +104,6 @@ footer {
     text-align: center;
     padding: 10px 0px 10px 0px;
     bottom: 0;
-    position: absolute;
     width: 100%
 }
+
