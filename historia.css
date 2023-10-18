@@ -87,13 +87,13 @@ body{
 .option{
     text-align: center;
 }
-h1{
-    margin-bottom: 100px;
+
+.divTexto{
     margin-top: 100px;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    width: 50%;
 }
-h2{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+
+.divTexto > p{
+    text-align: justify;
+    font-size: 20px;
 }
