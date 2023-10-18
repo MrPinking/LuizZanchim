@@ -93,11 +93,9 @@ body{
 }
 
 footer {
-    text-align: center;
-    padding: 3px;
-    background-color: rgb(32, 0, 214);
-    color: white;
-    bottom: 0;
-    position: absolute;
-    width: 100%
+        text-align: center;
+        padding: 10px 0px 10px 0px;
+        bottom: 0;
+        position: absolute;
+        width: 100%
 }
