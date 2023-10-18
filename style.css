@@ -110,3 +110,13 @@ body{
 .slider li:nth-child(3) label {
     left: 70px;
 }
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(32, 0, 214);
+    color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%
+}

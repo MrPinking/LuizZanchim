@@ -88,6 +88,7 @@ body{
 .option{
     text-align: center;
 }
+
 h1{
     text-align: center;
     font-size: large;
@@ -96,10 +97,13 @@ h1{
     width: 150px;
     align-items: center;
 }
+
 footer {
     text-align: center;
     padding: 3px;
     background-color: rgb(32, 0, 214);
     color: white;
-    margin-top: 100%;
+    bottom: 0;
+    position: absolute;
+    width: 100%
 }

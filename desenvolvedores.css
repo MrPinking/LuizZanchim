@@ -88,10 +88,14 @@ body{
 .option{
     text-align: center;
 }
+
 footer {
     text-align: center;
     padding: 3px;
     background-color: rgb(32, 0, 214);
     color: white;
-    margin-top: 100%;
+    bottom: 0;
+    position: absolute;
+    width: 100%
 }
+
