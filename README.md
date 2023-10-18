@@ -1,3 +1,3 @@
 #linksite
 
-https://mrpinking.github.io/new/
+https://github.com/MrPinking/LuizZanchim
