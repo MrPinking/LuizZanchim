@@ -87,7 +87,12 @@ body{
 .option{
     text-align: center;
 }
-
 .divTexto{
     margin-top: 100px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(32, 0, 214);
+    color: white;
 }
