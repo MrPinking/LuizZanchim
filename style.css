@@ -131,7 +131,7 @@ body{
     position: relative;
 }
 
-.prev, .next {
+.next {
     cursor: pointer;
     padding: 5px;
     position: absolute;
@@ -142,12 +142,23 @@ body{
     color: white;
     border: 1px solid white;
     border-radius: 50%;
+    right: 10px;
+}
 }
 
 .prev{
+    cursor: pointer;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
     left: 10px;
 }
 
-.next{
-    right: 10px;
-}
+
+    
