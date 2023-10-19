@@ -130,7 +130,8 @@ body{
     align-items: center;
 }
 
-.next,.prev {
+.next,
+.prev {
     cursor: pointer;
     padding: 5px;
     position: absolute;
