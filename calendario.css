@@ -88,6 +88,11 @@ body{
     text-align: center;
 }
 
+.divTexto > p{
+    text-align: justify;
+    font-size: 20px;
+}
+
 footer {
     text-align: center;
     padding: 25px 0px 10px 0px;
