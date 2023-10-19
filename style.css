@@ -88,6 +88,14 @@ body{
     text-align: center;
 }
  
+/* Estilize o slider */
+.slider-container {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+
 .slider {
     list-style-type: none;
     padding: 0;
@@ -116,22 +124,6 @@ body{
     height: auto;
 }
 
-.slider label::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #ccc;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-.slider input[type="radio"]:checked + label::before {
-    opacity: 1;
-}
-
 .slider-navigation {
     display: flex;
     justify-content: space-between;
@@ -139,17 +131,7 @@ body{
     font-size: 24px;
 }
 
-.slider-navigation label {
-    cursor: pointer;
-}
-
 .prev, .next {
+    cursor: pointer;
     padding: 5px;
-}
-
-footer {
-    text-align: center;
-    padding: 10px 0px 10px 0px;
-    bottom: 0;
-    width: 100%;
 }
