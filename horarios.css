@@ -89,7 +89,6 @@ body{
 }
 
 .divTexto{
-    margin-top: 50px;
     width: 40%;
     border: 2px solid #333;
     padding: 10px;
@@ -102,7 +101,7 @@ body{
 
 footer {
     text-align: center;
-    padding: 10px 0px 10px 0px;
+    padding: 25px 0px 10px 0px;
     bottom: 0;
     width: 100%
 }
